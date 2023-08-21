@@ -22,6 +22,7 @@ function App() {
       time: "9am",
     },
   ]);
+
   const [isTodoListVisible, setIsTodoListVisible] = useState(false);
 
   return (
